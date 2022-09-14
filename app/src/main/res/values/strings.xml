@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">智慧淹水警示系統</string>
+    <string name="record">歷史淹水記錄</string>
+    <string name="str1">設備名稱</string>
+    <string name="str2">連線狀態</string>
+    <string name="str3">淹水警報</string>
+    <string name="str4">發生時間</string>
+    <string name="str5">淹水層級</string>
+    <string name="str6">設備名稱：</string>
+    <string name="str7">註冊序號：</string>
+    <string name="str8">剩餘電量：</string>
+    <string name="str9">目前的IP：</string>
+    <string name="str10">MAC位址：</string>
+    <string name="str11">訊號強度：</string>
+    <string name="str12">連線狀態：</string>
+    <string name="str13">淹水層級：</string>
+</resources>
